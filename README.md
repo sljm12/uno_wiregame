@@ -18,3 +18,6 @@ This is my little tribute to him in a way, with some modern enhancements such as
 * 1.6mm Thick wire for making the Maze
 * Electrical Tape
 * 20x4 LCD for Scoring
+
+![Wiring Diagram](/images/wire_bb.png)
+_Wiring Diagram_
